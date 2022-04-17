@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:segmentation-selfie:16.0.0-beta3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e130f45a77132ea4f1db1ac81b3aab4d/transformed/jetified-segmentation-selfie-16.0.0-beta3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e130f45a77132ea4f1db1ac81b3aab4d/transformed/jetified-segmentation-selfie-16.0.0-beta3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e130f45a77132ea4f1db1ac81b3aab4d/transformed/jetified-segmentation-selfie-16.0.0-beta3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/segmentation-selfie/16.0.0-beta3/3e67bbf5015d77ecb69891225004418f31078883/segmentation-selfie-16.0.0-beta3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
