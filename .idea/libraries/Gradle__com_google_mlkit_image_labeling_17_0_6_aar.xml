@@ -1,9 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.mlkit:image-labeling:17.0.6@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/555422ca1fa2f8bfb96cd1a38ceb033e/transformed/jetified-image-labeling-17.0.6/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/555422ca1fa2f8bfb96cd1a38ceb033e/transformed/jetified-image-labeling-17.0.6/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/555422ca1fa2f8bfb96cd1a38ceb033e/transformed/jetified-image-labeling-17.0.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/91ac02ae4ed071d09ca06e06c9c68a47/transformed/jetified-image-labeling-17.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dbe242a101cc155489aa6994e89172f1/transformed/jetified-image-labeling-17.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd5b3367745c382b252bded36d2ca401/transformed/jetified-image-labeling-17.0.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dbe242a101cc155489aa6994e89172f1/transformed/jetified-image-labeling-17.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dbe242a101cc155489aa6994e89172f1/transformed/jetified-image-labeling-17.0.6/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/image-labeling/17.0.6/2a5c27e4ba81d1ba04af8a597bf97d8f999be9b0/image-labeling-17.0.6-javadoc.jar!/" />

@@ -1,9 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test:rules:1.4.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7b8112d6379eba1babed354223fc1b65/transformed/rules-1.4.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7b8112d6379eba1babed354223fc1b65/transformed/rules-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7b8112d6379eba1babed354223fc1b65/transformed/rules-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e1bd1fbb78e3fdc39032082ba7556096/transformed/rules-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2afe377bb9ea2ea7ff063e9f4a2129d1/transformed/rules-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/562715d72757c170861f0c8b00b48509/transformed/rules-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2afe377bb9ea2ea7ff063e9f4a2129d1/transformed/rules-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2afe377bb9ea2ea7ff063e9f4a2129d1/transformed/rules-1.4.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/rules/1.4.0/326d97acb2a9cf7cbff243e63d1d45fa354b8ec7/rules-1.4.0-javadoc.jar!/" />

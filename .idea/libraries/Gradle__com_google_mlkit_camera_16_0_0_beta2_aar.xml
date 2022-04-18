@@ -1,9 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.mlkit:camera:16.0.0-beta2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bcbc1fa0fc939ec23691bef03ad52e9b/transformed/jetified-camera-16.0.0-beta2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bcbc1fa0fc939ec23691bef03ad52e9b/transformed/jetified-camera-16.0.0-beta2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bcbc1fa0fc939ec23691bef03ad52e9b/transformed/jetified-camera-16.0.0-beta2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/850705a9a94dd92ac02b95c2a3f5df98/transformed/jetified-camera-16.0.0-beta2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/df36af7cc1e34fdd90bcf556a6dffe0b/transformed/jetified-camera-16.0.0-beta2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b34c7b3120fc7589bc3d33d57165914a/transformed/jetified-camera-16.0.0-beta2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/df36af7cc1e34fdd90bcf556a6dffe0b/transformed/jetified-camera-16.0.0-beta2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/df36af7cc1e34fdd90bcf556a6dffe0b/transformed/jetified-camera-16.0.0-beta2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/camera/16.0.0-beta2/e27b1179f6b873139a6a0d1570f4fdbd3c83425c/camera-16.0.0-beta2-javadoc.jar!/" />

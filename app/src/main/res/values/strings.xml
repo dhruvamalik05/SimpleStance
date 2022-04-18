@@ -145,4 +145,9 @@
     <string name="pref_title_segmentation_raw_size_mask" translatable="false">Enable raw size mask</string>
     <string name="pref_key_segmentation_raw_size_mask" translatable="false">srsm</string>
 
+    <!--This is for the Doctor and Patient choice at registration -->
+    <string-array name="registerArray">
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
 </resources>

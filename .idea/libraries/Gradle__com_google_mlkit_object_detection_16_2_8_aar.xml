@@ -1,9 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.mlkit:object-detection:16.2.8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/77164155e06e8461734dc5a3a2712830/transformed/jetified-object-detection-16.2.8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/77164155e06e8461734dc5a3a2712830/transformed/jetified-object-detection-16.2.8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/77164155e06e8461734dc5a3a2712830/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a28cf7b6b23084df403c68fc9a988dd/transformed/jetified-object-detection-16.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5229659c1125275c432b2a7feb59113/transformed/jetified-object-detection-16.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01af33c4d23b576a6e1aa524471663e9/transformed/jetified-object-detection-16.2.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5229659c1125275c432b2a7feb59113/transformed/jetified-object-detection-16.2.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e5229659c1125275c432b2a7feb59113/transformed/jetified-object-detection-16.2.8/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/object-detection/16.2.8/1b96de68fc8f729743aa38e4b3a92684089efd4e/object-detection-16.2.8-javadoc.jar!/" />

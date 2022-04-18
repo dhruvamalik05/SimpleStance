@@ -1,9 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-mlkit-face-detection:16.2.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7bad26acb963c0038ee7da669e0acbf7/transformed/jetified-play-services-mlkit-face-detection-16.2.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7bad26acb963c0038ee7da669e0acbf7/transformed/jetified-play-services-mlkit-face-detection-16.2.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7bad26acb963c0038ee7da669e0acbf7/transformed/jetified-play-services-mlkit-face-detection-16.2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bfe2f309749604ab5d675b27a2c51f03/transformed/jetified-play-services-mlkit-face-detection-16.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6ab59760e21eae8781b1f58b61ab3cb/transformed/jetified-play-services-mlkit-face-detection-16.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/54dddb01b14014ebd4bde549bc741224/transformed/jetified-play-services-mlkit-face-detection-16.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e6ab59760e21eae8781b1f58b61ab3cb/transformed/jetified-play-services-mlkit-face-detection-16.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6ab59760e21eae8781b1f58b61ab3cb/transformed/jetified-play-services-mlkit-face-detection-16.2.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-face-detection/16.2.1/28c08c576f0e7a2b6966988da12e36aebd6ccfbf/play-services-mlkit-face-detection-16.2.1-javadoc.jar!/" />

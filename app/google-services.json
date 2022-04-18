@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159194978044",
+    "firebase_url": "https://simplestance2-default-rtdb.firebaseio.com",
+    "project_id": "simplestance2",
+    "storage_bucket": "simplestance2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159194978044:android:70a5dacbf052ba7db7a979",
+        "android_client_info": {
+          "package_name": "com.google.mlkit.vision.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159194978044-16717uged8d97qdld2g875ems2k63pk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUiiCwUIk4lD9TarxGpi33eQ6uKUDtBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159194978044-16717uged8d97qdld2g875ems2k63pk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
